@@ -1,0 +1,44 @@
+# Images Needed for Dashboard Portfolio
+
+## Required Images
+
+1. **avatar.jpg** - User avatar/profile thumbnail (80×80px recommended)
+   - Small circular image that appears in the header
+   - Should be a professional headshot with good lighting
+
+2. **profile.jpg** - Larger profile image (300×300px recommended)
+   - Appears in the overview section
+   - Should be a professional, high-quality headshot
+
+3. **project1.jpg** - E-Commerce Platform screenshot (800×450px recommended)
+   - Featured project image
+   - Screenshot of project interface/dashboard
+
+4. **project2.jpg** - Dashboard UI screenshot (800×450px recommended)
+   - Featured project image
+   - Screenshot of project interface/dashboard
+
+5. **project3.jpg** - Fitness App screenshot (800×450px recommended)
+   - Featured project image
+   - Screenshot of project interface
+
+6. **project4.jpg** - Blog Platform screenshot (800×450px recommended)
+   - Featured project image
+   - Screenshot of project interface
+
+## Image Requirements
+
+- All images should be optimized for web (use WebP format if possible)
+- Keep file sizes under 200KB for optimal loading speed
+- Use consistent aspect ratios for project images
+- Avatar/profile images should have professional appearance
+- Project screenshots should clearly demonstrate the UI/functionality
+
+## Placeholder Options
+
+If you don't have actual project images yet, you can:
+- Use mockups from design tools like Figma or Sketch
+- Find relevant stock images from sites like Unsplash.com
+- Create simple placeholders with tools like Placeit or Canva
+
+Remember to replace these placeholder images with actual project screenshots before deploying your portfolio! 
